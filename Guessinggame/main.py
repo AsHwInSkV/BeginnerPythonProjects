@@ -1,3 +1,4 @@
+#GuessNumber(Computer)
 import random
 
 def guess(x):
